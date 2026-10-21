@@ -1,0 +1,160 @@
+/* GENERAL */
+body {
+  background: #f4f6f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #2f3542;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #2f3640;
+  padding: 12px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.navbar a {
+  background: none;
+  color: #fff;
+  margin-left: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+
+.navbar a:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+/* TITULO */
+h2 {
+  text-align: center;
+  font-size: 2em;
+  margin: 1.5em 0;
+  color: #2f3640;
+}
+
+/* BOTONES */
+a.btn-volver {
+  background-color: #44bd32;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 12px;
+  transition: 0.3s;
+}
+a.btn-volver:hover {
+  background-color: #4cd137;
+}
+
+a.logout-btn {
+  background-color: #e84118;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+a.logout-btn:hover {
+  background-color: #c23616;
+}
+
+/* TABLA */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  margin-top: 20px;
+}
+
+thead th {
+  background: #2f3640;
+  color: #fff;
+  padding: 14px;
+  text-align: left;
+  font-weight: bold;
+}
+
+tbody td {
+  padding: 14px;
+  border-bottom: 1px solid #ececec;
+}
+
+tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+tbody tr:hover {
+  background: #f1f2f6;
+}
+
+/* SELECT ESTADO */
+.estado-producto {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ced6e0;
+  font-weight: bold;
+  color: #2f3542;
+  min-width: 130px;
+  background: #fff;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.estado-producto option[value="disponible"] {
+  background: #d4edda;
+  color: #155724;
+}
+
+.estado-producto option[value="agotado"] {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tbody tr {
+    margin-bottom: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 12px;
+  }
+
+  tbody td {
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 6px;
+    font-size: 14px;
+  }
+
+  tbody td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    color: #57606f;
+  }
+}

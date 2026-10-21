@@ -1,0 +1,137 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6f9;
+  color: #2f3542;
+  margin: 0;
+  padding: 2em;
+}
+
+/* TÍTULO */
+h1 {
+  text-align: center;
+  color: #2f3640;
+  margin-bottom: 30px;
+  font-size: 2em;
+}
+
+/* BOTONES GENERALES */
+a.btn {
+  display: inline-block;
+  padding: 10px 16px;
+  margin: 6px 0;
+  background: #2ecc71;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+a.btn:hover {
+  background: #27ae60;
+}
+
+a.btn-edit {
+  background: #3498db;
+}
+a.btn-edit:hover {
+  background: #2980b9;
+}
+
+a.btn-delete {
+  background: #e74c3c;
+}
+a.btn-delete:hover {
+  background: #c0392b;
+}
+
+/* FORMULARIO DE FILTRO */
+form {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  background: #ffffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+form label {
+  font-weight: bold;
+}
+
+form select,
+form input[type="text"],
+form button {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  background: #2ecc71;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+form button:hover {
+  background: #27ae60;
+}
+
+/* TABLA */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0,0,0,0.06);
+}
+
+th, td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid #eaeaea;
+  font-size: 14px;
+}
+
+th {
+  background: #2f3640;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+tr:hover {
+  background-color: #f1f2f6;
+}
+
+td img {
+  border-radius: 4px;
+  max-height: 50px;
+}
+
+/* PÁRRAFOS */
+p {
+  text-align: center;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  table, thead, tbody, th, td, tr {
+    font-size: 13px;
+  }
+
+  form {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  a.btn {
+    width: 100%;
+    text-align: center;
+  }
+}

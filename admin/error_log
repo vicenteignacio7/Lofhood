@@ -1,0 +1,1027 @@
+[05-Aug-2025 18:46:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:46:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:46:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:47:05 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:51:48 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:52:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:52:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:52:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:53:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:53:42 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:53:48 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 18:54:00 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:38:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:41:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:44:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:44:51 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:45:07 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[05-Aug-2025 23:48:07 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[05-Aug-2025 23:49:18 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[05-Aug-2025 23:52:46 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[05-Aug-2025 23:54:00 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:01:53 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:03:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:05:13 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:05:42 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:06:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:07:00 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:07:18 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:07:24 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:07:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:07:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:08:16 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:08:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:08:56 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:09:04 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:09:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:09:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:10:12 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:10:26 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:10:42 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:11:05 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:11:17 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:11:23 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:11:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:11:45 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:11:58 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:12:06 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:12:35 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:12:44 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:15:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:16:04 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:17:53 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/eliminar.php on line 14
+[06-Aug-2025 00:20:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:21:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:22:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:23:41 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:24:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:24:16 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:24:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:24:42 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/eliminar.php on line 14
+[06-Aug-2025 00:26:26 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:29:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:30:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:33:36 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 53
+[06-Aug-2025 00:36:41 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:37:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:37:36 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:37:48 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:40:20 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:43:04 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:43:25 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 00:44:01 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 42
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/agregar.php on line 2
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/agregar.php on line 2
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/agregar.php on line 2
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(includes/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/agregar.php on line 3
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(includes/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/agregar.php on line 3
+[06-Aug-2025 18:55:52 America/Santiago] PHP Warning:  include(): Failed opening 'includes/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/agregar.php on line 3
+[06-Aug-2025 18:58:39 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[06-Aug-2025 18:59:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 52
+[06-Aug-2025 19:02:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[06-Aug-2025 19:04:06 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[06-Aug-2025 19:14:20 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[06-Aug-2025 19:14:22 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[06-Aug-2025 19:15:13 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[06-Aug-2025 19:16:09 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[06-Aug-2025 19:17:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[06-Aug-2025 19:37:23 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_quilicura.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 9
+[06-Aug-2025 19:37:46 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_quilicura.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 9
+[06-Aug-2025 19:38:17 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[06-Aug-2025 19:38:31 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 01:08:36 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_quilicura.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 9
+[07-Aug-2025 01:12:57 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 01:15:22 America/Santiago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/tokirame/public_html/admin/pedidos_puente.php:45
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(45): mysqli->prepare('\n        SELECT...')
+#1 /home/tokirame/public_html/admin/pedidos_puente.php(118): obtenerDetallePedido(Object(mysqli), 182)
+#2 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 45
+[07-Aug-2025 01:15:31 America/Santiago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/tokirame/public_html/admin/pedidos_puente.php:45
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(45): mysqli->prepare('\n        SELECT...')
+#1 /home/tokirame/public_html/admin/pedidos_puente.php(118): obtenerDetallePedido(Object(mysqli), 182)
+#2 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 45
+[07-Aug-2025 01:15:36 America/Santiago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/tokirame/public_html/admin/pedidos_puente.php:45
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(45): mysqli->prepare('\n        SELECT...')
+#1 /home/tokirame/public_html/admin/pedidos_puente.php(118): obtenerDetallePedido(Object(mysqli), 182)
+#2 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 45
+[07-Aug-2025 01:15:38 America/Santiago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/tokirame/public_html/admin/pedidos_puente.php:45
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(45): mysqli->prepare('\n        SELECT...')
+#1 /home/tokirame/public_html/admin/pedidos_puente.php(118): obtenerDetallePedido(Object(mysqli), 182)
+#2 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 45
+[07-Aug-2025 01:16:50 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/pedidos_puente.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 13
+[07-Aug-2025 01:17:06 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/pedidos_puente.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 13
+[07-Aug-2025 01:18:30 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_puente.php:137
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(137): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 137
+[07-Aug-2025 01:18:40 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_puente.php:137
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(137): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 137
+[07-Aug-2025 09:32:05 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 12:20:55 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 12:21:07 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('1800.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 13:19:12 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:19:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:19:49 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:20:56 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:21:01 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:21:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:22:29 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:22:54 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:26:41 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:32:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:33:04 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:39:11 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[07-Aug-2025 13:39:56 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:43:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:43:55 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 13:46:31 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 15:18:24 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[07-Aug-2025 15:18:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/agregar.php on line 44
+[07-Aug-2025 15:24:18 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/editar.php on line 64
+[07-Aug-2025 15:24:41 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tokirame/public_html/admin/includes/header_admin.php:13) in /home/tokirame/public_html/admin/eliminar.php on line 14
+[07-Aug-2025 16:04:57 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/index_admin.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/index_admin.php on line 2
+[07-Aug-2025 16:05:09 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/index_admin.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/index_admin.php on line 2
+[07-Aug-2025 16:05:11 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/index_admin.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/index_admin.php on line 2
+[07-Aug-2025 16:05:13 America/Santiago] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in /home/tokirame/public_html/admin/index_admin.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/index_admin.php on line 2
+[07-Aug-2025 22:08:37 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 22:08:53 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 22:09:05 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_puente.php:137
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(137): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 137
+[07-Aug-2025 22:09:14 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_puente.php:137
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(137): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 137
+[07-Aug-2025 22:09:39 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 22:19:32 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:07 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:07 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:07 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:07 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:08 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:14 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:20:23 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_quilicura.php:135
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(135): number_format('12500.00', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 135
+[07-Aug-2025 22:20:32 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:21:05 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:20
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(20): mysqli->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 20
+[07-Aug-2025 22:30:56 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pr.status' in 'WHERE' in /home/tokirame/public_html/admin/pedidos_puente.php:47
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(47): mysqli->query('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 47
+[07-Aug-2025 22:34:22 America/Santiago] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/tokirame/public_html/admin/pedidos_puente.php:122
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(122): number_format('12500', 0, ',', '.')
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 122
+[07-Aug-2025 22:38:30 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 22:38:31 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 22:39:24 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 22:39:24 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 22:39:31 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_puente.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_puente.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_puente.php on line 9
+[07-Aug-2025 22:40:24 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_quilicura.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 9
+[07-Aug-2025 22:40:25 America/Santiago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tokirame/public_html/admin/pedidos_quilicura.php:9
+Stack trace:
+#0 /home/tokirame/public_html/admin/pedidos_quilicura.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'tokiramen_bd', 3308)
+#1 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 9
+[07-Aug-2025 23:00:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:00:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:00:43 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:01:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:01:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:01:25 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 55
+[07-Aug-2025 23:07:48 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:07:48 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:07:48 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:07:58 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:07:58 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:07:58 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:09:35 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 51
+[07-Aug-2025 23:09:35 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 51
+[07-Aug-2025 23:09:35 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 51
+[07-Aug-2025 23:09:38 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:09:38 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:09:38 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 53
+[07-Aug-2025 23:18:49 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 71
+[07-Aug-2025 23:18:49 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 71
+[07-Aug-2025 23:18:49 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 71
+[07-Aug-2025 23:18:54 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:18:54 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:18:54 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:06 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:06 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:06 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:13 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:13 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:13 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:18 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:18 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:18 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:19 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:19 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:19 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:20 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:20 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:20 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:21 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:22 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:23 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:24 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:24 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:24 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:25 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:36 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:36 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:36 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:39 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:19:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 70
+[07-Aug-2025 23:25:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:25:43 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:10 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:10 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:10 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:34 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:34 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:34 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:26:40 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:30:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:30:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:30:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:30:34 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:30:34 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:30:34 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:33:12 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:33:12 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:33:12 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 67
+[07-Aug-2025 23:33:14 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:33:14 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:33:14 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 73
+[07-Aug-2025 23:37:08 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:37:08 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:37:08 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:37:16 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[07-Aug-2025 23:37:16 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[07-Aug-2025 23:37:16 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[07-Aug-2025 23:42:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:42:39 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:42:39 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:42:47 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:42:47 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:42:47 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[07-Aug-2025 23:48:48 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[07-Aug-2025 23:48:48 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[07-Aug-2025 23:48:48 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:09 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:09 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:09 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:17 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 05:52:17 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 05:52:17 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 05:52:30 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:30 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 05:52:30 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 22:01:26 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 22:01:26 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 22:01:26 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 49
+[08-Aug-2025 22:01:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 22:01:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 22:01:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 48
+[08-Aug-2025 22:16:27 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:16:27 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:16:27 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:16:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:16:29 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:16:29 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 65
+[08-Aug-2025 22:22:37 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 69
+[08-Aug-2025 22:22:37 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_puente.php on line 69
+[08-Aug-2025 22:22:37 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_puente.php on line 69
+[08-Aug-2025 22:22:41 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 68
+[08-Aug-2025 22:22:41 America/Santiago] PHP Warning:  include(/home/tokirame/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 68
+[08-Aug-2025 22:22:41 America/Santiago] PHP Warning:  include(): Failed opening '/home/tokirame/public_html/admin/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_quilicura.php on line 68
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 23
+[12-Aug-2025 19:53:28 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 123
+[12-Aug-2025 19:53:28 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 126
+[12-Aug-2025 19:53:28 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 126
+[12-Aug-2025 19:53:28 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 126
+[12-Aug-2025 19:53:28 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 126
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:09 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 26
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 143
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:01:19 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 150
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:15 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 25
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 154
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 168
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 187
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 193
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 196
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 197
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 198
+[12-Aug-2025 20:10:18 America/Santiago] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in /home/tokirame/public_html/admin/export_pedidos.php on line 199
+[12-Aug-2025 20:40:31 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:32 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:33 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:34 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:34 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:34 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:34 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:43 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:40:54 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:41:55 America/Santiago] PHP Parse error:  syntax error, unexpected token "use" in /home/tokirame/public_html/admin/export_pedidos.php on line 80
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:50:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:38 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 20:57:40 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:09:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:00 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:03 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 21:10:04 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:34:46 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:11 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[12-Aug-2025 22:35:25 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[13-Aug-2025 19:32:51 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function haversine_km() in /home/tokirame/public_html/admin/api_calc_envio.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/api_calc_envio.php on line 19
+[13-Aug-2025 19:33:49 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function haversine_km() in /home/tokirame/public_html/admin/api_calc_envio.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/api_calc_envio.php on line 19
+[18-Aug-2025 16:07:26 America/Santiago] PHP Warning:  require(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:07:26 America/Santiago] PHP Warning:  require(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:07:26 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:34:02 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:34:02 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:34:41 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:34:41 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:37:50 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:37:50 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:38:04 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:38:04 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:45:28 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:45:28 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:45:38 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:45:38 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 5
+[18-Aug-2025 16:52:53 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:52:53 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:53:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:53:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:58:18 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 16:58:18 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 17:04:23 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 8
+[18-Aug-2025 17:04:23 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 8
+[18-Aug-2025 17:04:42 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:42 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:44 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:44 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:44 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:44 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:45 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:45 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:45 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:45 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:47 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 17:04:48 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:12:58 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 18:12:58 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/actualizar_estado.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/actualizar_estado.php on line 6
+[18-Aug-2025 18:16:07 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:07 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:09 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Warning:  require_once(/home/tokirame/public_html/admin/conexion.php): Failed to open stream: No such file or directory in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 18:16:11 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tokirame/public_html/admin/conexion.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/tokirame/public_html/admin/pedidos_transferencia.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tokirame/public_html/admin/pedidos_transferencia.php on line 5
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 19:58:56 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:51:13 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58
+[18-Aug-2025 21:55:27 America/Santiago] PHP Deprecated:  Function strftime() is deprecated since 8.1, use IntlDateFormatter::format() instead in /home/tokirame/public_html/admin/export_pedidos.php on line 58

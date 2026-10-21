@@ -1,0 +1,181 @@
+/* GENERAL */
+body {
+  background: #f4f6f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #2f3542;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #2f3640;
+  padding: 12px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.navbar a {
+  background: none;
+  color: #fff;
+  margin-left: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: background 0.3s;
+}
+
+.navbar a:hover {
+  background: rgba(255,255,255,0.15);
+}
+
+/* TITULOS */
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin: 1em 0;
+  color: #2f3640;
+}
+
+h3 {
+  margin: 25px 0 10px;
+  font-size: 1.4em;
+  color: #0097e6;
+}
+
+h4 {
+  margin: 10px 0;
+  font-size: 1.1em;
+  color: #57606f;
+}
+
+/* CARD CONTENEDOR DE ESTADO */
+.estado-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+/* TABLA */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+thead th {
+  background: #2f3640;
+  color: #fff;
+  padding: 14px;
+  text-align: left;
+}
+
+tbody td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #ececec;
+}
+
+tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+tbody tr:hover {
+  background: #f1f2f6;
+}
+
+/* SELECT DE ESTADO */
+.estado-select {
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid #ced6e0;
+  font-weight: bold;
+  color: #2f3542;
+  min-width: 140px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.estado-select:focus {
+  outline: none;
+  border-color: #1dd1a1;
+  background: #f0fff5;
+}
+
+.estado-select option[value="pendiente"] {
+  background: #fff3cd;
+}
+
+.estado-select option[value="preparando"] {
+  background: #d1ecf1;
+}
+
+.estado-select option[value="entregado"] {
+  background: #d4edda;
+}
+
+/* BADGES */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+.badge-pendiente {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.badge-preparando {
+  background: #d1ecf1;
+  color: #0c5460;
+}
+
+.badge-entregado {
+  background: #d4edda;
+  color: #155724;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tbody tr {
+    margin-bottom: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 12px;
+  }
+
+  tbody td {
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 6px;
+    font-size: 14px;
+  }
+
+  tbody td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    color: #57606f;
+  }
+}

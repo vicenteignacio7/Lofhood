@@ -1,0 +1,9 @@
+/vendor
+.idea
+.built
+.bundled
+composer.lock
+.phpunit.result.cache
+.phpunit.cache
+/build
+.vscode

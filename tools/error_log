@@ -1,0 +1,97 @@
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 220-s520.v2nets.com ESMTP Exim 4.98.2 #2 Fri, 15 Aug 2025 22:32:53 -0400 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: EHLO tokiramen.cl
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 250-s520.v2nets.com Hello tokiramen.cl [208.91.188.30]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: AUTH LOGIN
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: [credentials hidden]
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: [credentials hidden]
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 235 Authentication succeeded
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: MAIL FROM:<soporte@tokiramen.cl>
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 250 OK
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: RCPT TO:<tu_gmail_o_correo_destino@loquesea.com>
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 250 Accepted
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: DATA
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Date: Fri, 15 Aug 2025 22:32:52 -0400
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: To: tu_gmail_o_correo_destino@loquesea.com
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: From: Toki Ramen <soporte@tokiramen.cl>
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Subject: Prueba SMTP Toki Ramen
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Message-ID: <iAhALBqSyFt2jK79CGnz3LtEFJRBJOr8fUHRy9Q@tokiramen.cl>
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.0 (https://github.com/PHPMailer/PHPMailer)
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: MIME-Version: 1.0
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER:  boundary="b1=_iAhALBqSyFt2jK79CGnz3LtEFJRBJOr8fUHRy9Q"
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: --b1=_iAhALBqSyFt2jK79CGnz3LtEFJRBJOr8fUHRy9Q
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Si lees esto, el envío funciona.
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: --b1=_iAhALBqSyFt2jK79CGnz3LtEFJRBJOr8fUHRy9Q
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: <p>Si lees esto, el envío funciona.</p>
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: --b1=_iAhALBqSyFt2jK79CGnz3LtEFJRBJOr8fUHRy9Q--
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: 
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: .
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 250 OK id=1un6ix-00000002IYa-45M0
+
+[15-Aug-2025 22:32:53 America/Santiago] CLIENT -> SERVER: QUIT
+
+[15-Aug-2025 22:32:53 America/Santiago] SERVER -> CLIENT: 221 s520.v2nets.com closing connection
+

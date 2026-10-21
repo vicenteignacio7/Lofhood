@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # ⛔ NUNCA redirigir cuando estoy en localhost
+  RewriteCond %{HTTP_HOST} ^localhost$ [NC]
+  RewriteRule ^ - [L]
+
+  RewriteCond %{HTTP_HOST} ^127\.0\.0\.1$ [NC]
+  RewriteRule ^ - [L]
+
+  # ✅ SOLO redirigir cuando el dominio es tokiramen.cl
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} ^www\.tokiramen\.cl$ [NC]
+  RewriteRule ^ https://tokiramen.cl%{REQUEST_URI} [L,R=301]
+
+  # Bloquear acceso directo a vendor
+  RewriteRule ^vendor/ - [F,L]
+</IfModule>
+
+Options -Indexes
