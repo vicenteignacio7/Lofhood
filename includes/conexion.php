@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";        // Usuario por defecto en XAMPP
 $pass = "";            // Sin contraseña en XAMPP
-$dbname = "tokiramen_bd";  // Tu base de datos local
+$dbname = "lofhood";  // Tu base de datos local
 
 $conn = new mysqli($host, $user, $pass, $dbname, 3309);
 
